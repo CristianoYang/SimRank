@@ -1,0 +1,8 @@
+﻿  test.cpp
+D:\论文文献\simrank_code\github\c++\mat_simrank.hpp(42): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\论文文献\simrank_code\github\c++\test.cpp(14): warning C4305: “初始化”: 从“double”到“float”截断
+  SimRank.vcxproj -> D:\论文文献\simrank_code\github\c++\x64\Debug\SimRank.exe

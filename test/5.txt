@@ -1,8 +1,0 @@
-A,X
-A,X
-A,X
-B,X
-B,X
-B,X
-C,Y
-D,Y

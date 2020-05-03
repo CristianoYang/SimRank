@@ -1,6 +1,0 @@
-A,suger
-A,frosting
-A,eggs
-B,frosting
-B,eggs
-B,flour

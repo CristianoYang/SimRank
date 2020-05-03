@@ -1,0 +1,2 @@
+camera,hp.com
+digital camera,hp.com

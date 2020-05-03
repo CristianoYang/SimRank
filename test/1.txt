@@ -1,4 +1,0 @@
-camera,hp.com
-camera,bestbuy.com
-digital camera,hp.com
-digital camera,bestbuy.com
